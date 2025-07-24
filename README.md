@@ -1,4 +1,4 @@
-# dockerphpmysql
+# Containers Docker com PHP - MYSQL - PHPMYADMIN - APACHE
 
 Feito isso podemos colocar todos esses containers para rodar com o comando
 # docker-compose up -d
